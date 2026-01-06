@@ -1,0 +1,75 @@
+# COMSOL Multiphysics files
+*.mph~           # COMSOL backup files
+*.mphtxt~        # COMSOL text backup files
+*_recovery/      # Recovery directories
+*.lock           # Lock files
+
+# Large result files (consider hosting externally)
+*.vtu            # VTK unstructured grid files
+*.vtk            # VTK files
+*.h5             # HDF5 result files (if very large)
+
+# Temporary COMSOL files
+.comsol/
+recovery/
+
+# OS files
+.DS_Store        # macOS
+Thumbs.db        # Windows
+Desktop.ini      # Windows
+*.swp            # Vim swap files
+*~               # Backup files
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+.project
+.settings/
+
+# Python (for pre/post-processing scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# MATLAB (for pre/post-processing scripts)
+*.asv
+*.m~
+
+# R (for data analysis)
+.Rhistory
+.RData
+.Rproj.user
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Compiled files
+*.o
+*.so
+*.dll
+*.exe
+
+# Logs
+*.log
+
+# Archives (large files should be hosted externally)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Documentation build files
+_build/
+*.pdf~
+
+# Personal notes (contributors may want to keep local notes)
+NOTES.md
+TODO.md
+personal_notes/
