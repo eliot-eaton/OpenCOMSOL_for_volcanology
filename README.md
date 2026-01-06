@@ -8,7 +8,7 @@ This repository serves as a community hub for volcanologists and computational s
 
 ## 📂 Repository Structure
 
-The repository is organized into three main sections:
+The repository is organized into four main sections:
 
 ### [Published Models](./published_models/)
 Peer-reviewed and published COMSOL models associated with scientific publications. These models are complete, validated, and ready for use by the community.
@@ -18,6 +18,9 @@ Work-in-progress models currently under development. These models may be seeking
 
 ### [Model Ideas](./model_ideas/)
 Concepts and proposals for future COMSOL models. Share your research questions, discuss modeling approaches, and find collaborators.
+
+### [Benchmark Models](./model_ideas/)
+COMSOL models that can be validated against analytical solutions
 
 ## 🚀 Getting Started
 
