@@ -22,6 +22,9 @@ Concepts and proposals for future COMSOL models. Share your research questions, 
 ### [Benchmark Models](./model_ideas/)
 COMSOL models that can be validated against analytical solutions
 
+#### Please clear all built meshes and solutions to reduce file size
+
+
 ## 🚀 Getting Started
 
 **New here? Check out our [Quick Start Guide](./QUICKSTART.md) for step-by-step instructions!**
