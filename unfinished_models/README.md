@@ -9,6 +9,7 @@ This space is for:
 - Exploratory models being tested and refined
 - Models seeking community feedback and collaboration
 - Educational models in development
+- Models that never made it to publication
 
 ## Submission Guidelines
 
