@@ -13,11 +13,9 @@ Understanding magma chamber-fault interactions is crucial for:
 ## Proposed Approach
 
 ### Physics Modules
-- [] Heat Transfer (conduction and convection)
-- [] Porous Media Flow (Darcy flow in rock)
+
 - [x] Structural Mechanics (stress changes, rock failure)
-- [ ] Multiphase Flow (potential boiling)
-- [ ] Chemical Reactions (alteration, optional)
+
 
 ### Key Processes to Model
 1. Heat transfer from magma intrusion to surrounding rock
