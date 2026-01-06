@@ -21,6 +21,8 @@ Concepts and proposals for future COMSOL models. Share your research questions, 
 
 ## 🚀 Getting Started
 
+**New here? Check out our [Quick Start Guide](./QUICKSTART.md) for step-by-step instructions!**
+
 ### For Users
 1. Browse the directories to find models of interest
 2. Read the README in each model directory for specific information
