@@ -23,8 +23,8 @@ Submit complete, peer-reviewed models associated with published research.
 
 **Submission location:** `/published_models/`
 
-### 2. Unfinished Models
-Share work-in-progress models for feedback and collaboration.
+### 2. Unfinished/unpublished Models
+Share work-in-progress models for feedback and collaboration. This would be a great location for models that may not have been published or finished during a research project but are valuable to the members of the commmunity. 
 
 **Requirements:**
 - Description of current development stage
